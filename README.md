@@ -15,8 +15,7 @@ The following will be installed automatically when you run the program.
 
 
 ## How to use the program
-https://qiita.com/trombone0717960/private/9a04d7213f1ccdb64afd
-
+https://qiita.com/fukutawata/items/f31466559a26150b1958
 ## Usage of function
 ```python:main.py
 work_?(start_time,duration,lesson_url)
